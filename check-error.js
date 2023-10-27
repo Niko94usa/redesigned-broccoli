@@ -1,4 +1,8 @@
-const { CONSTANTS } = require('./constants.js');
+
+asd
+    fa
+        sdf
+            asconst { CONSTANTS } = require('./constants.js');
 
 const { SPECIAL_PROP_VALUE, CORRECT_RESULT_MSG, INCORRECT_RESULT_MSG } = CONSTANTS;
 
